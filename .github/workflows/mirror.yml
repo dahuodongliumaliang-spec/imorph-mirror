@@ -28,6 +28,11 @@ jobs:
           python mirror/mirror_mega.py build --out mirror \
             --release-base "https://github.com/${{ github.repository }}/releases/download/latest"
 
+      - name: 清掉旧的 latest（避免旧文件名残留）
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release delete latest --cleanup-tag --yes || true
+
       - name: 发布到 Release（latest）
         uses: softprops/action-gh-release@v2
         with:
