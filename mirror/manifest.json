@@ -1,0 +1,249 @@
+{
+  "generated": "2026-10-29T12:36:19+00:00",
+  "source": "https://www.imorph.dev/download",
+  "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
+  "versions": [
+    {
+      "tab": "global",
+      "title": "Retail",
+      "version": "WoW 12.1.5.70575 · iMorph v1.5.323",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.323[12.1.5.70575].zip",
+          "size": 134871,
+          "sha256": "06cab00e0d75d5a64ac052b768691a5458c4cee54a56e728696b959783b7be2b"
+        },
+        "net": {
+          "name": "iMorph-1.5.323(net)[12.1.5.70575].zip",
+          "size": 158926,
+          "sha256": "fd2a0aeb8d8fea4dad17ec960d8730abdbdab0dbba53f199d60b39da36357fdf"
+        },
+        "menu": {
+          "name": "iMorph-1.5.323(menu)[12.1.5.70575].zip",
+          "size": 396701,
+          "sha256": "c731229260e803abea8118d9cf271e462814229445f21e013ac2dec418920e25"
+        }
+      }
+    },
+    {
+      "tab": "global",
+      "title": "Classic",
+      "version": "WoW 5.5.4.70631 · iMorph v1.5.324",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.324[5.5.4.70631].zip",
+          "size": 134576,
+          "sha256": "26a15d04b89e62950cab245e20f2ef2a04ddd08b6ed7f1503a8ecf4ebd9abd3f"
+        },
+        "net": {
+          "name": "iMorph-1.5.324(net)[5.5.4.70631].zip",
+          "size": 159189,
+          "sha256": "b94d26b12890466cffa3560fd8870070f2d15e5d16529f05f0657787a6e0636f"
+        },
+        "menu": {
+          "name": "iMorph-1.5.324(menu)[5.5.4.70631].zip",
+          "size": 395246,
+          "sha256": "f2dd933f4f759e7395ce529cbbaaa6295a32797af3f09fe26dcaa706210f2cfc"
+        }
+      }
+    },
+    {
+      "tab": "global",
+      "title": "Classic Era",
+      "version": "WoW 1.15.9.70576 · iMorph v1.5.323",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.323[1.15.9.70576].zip",
+          "size": 133313,
+          "sha256": "7d07f2f0d57186ab6024ecd98ea4916b964a383292765635d14e1fa67e78b671"
+        },
+        "net": {
+          "name": "iMorph-1.5.323(net)[1.15.9.70576].zip",
+          "size": 157848,
+          "sha256": "66e6833ce7a6920e4e53d0b9019ae7ec7b4c2f6c78a09ed889d287dfc84c9d42"
+        },
+        "menu": {
+          "name": "iMorph-1.5.323(menu)[1.15.9.70576].zip",
+          "size": 374344,
+          "sha256": "167404c44aed59c066ad4ceaef6d4ccfc44ea471a1cd0e31622286a49a721434"
+        }
+      }
+    },
+    {
+      "tab": "global",
+      "title": "Anniversary",
+      "version": "WoW 2.5.6.70577 · iMorph v1.5.323",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.323[2.5.6.70577].zip",
+          "size": 134037,
+          "sha256": "7ccd83cc5d8f87a1742e71113efb4a719c9a4350bbe7af6d855056a59b76db33"
+        },
+        "net": {
+          "name": "iMorph-1.5.323(net)[2.5.6.70577].zip",
+          "size": 158661,
+          "sha256": "da812f9d99dcc470cceb1d65881c4f1a3940b86869dfbffe09dd9f8dc4baa0b8"
+        },
+        "menu": {
+          "name": "iMorph-1.5.323(menu)[2.5.6.70577].zip",
+          "size": 394661,
+          "sha256": "2444542b39807810662671b292e3025c0e1e5c4e91a03f55944dec2aec4bb664"
+        }
+      }
+    },
+    {
+      "tab": "global",
+      "title": "Forever",
+      "version": "WoW 1.60.1.70634 · iMorph v1.5.324",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.324[1.60.1.70634].zip",
+          "size": 134819,
+          "sha256": "f63c420e91763b987a1736ac1908ba8c1c74fc5bf93a869ab5b3d3be5ae87b11"
+        },
+        "net": {
+          "name": "iMorph-1.5.324(net)[1.60.1.70634].zip",
+          "size": 158894,
+          "sha256": "4363148191a8a3dc80d7d4b6f071311a5c46154a6c2b0f5cc3edbf2e326b39cc"
+        },
+        "menu": {
+          "name": "iMorph-1.5.324(menu)[1.60.1.70634].zip",
+          "size": 396566,
+          "sha256": "83b3a24668a6a90e72b216a8b41c87f2707bca441966ddac6be428ed78960c6c"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Retail",
+      "version": "WoW 12.1.5.70575 · iMorph v1.5.325",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.325[China 12.1.5.70575].zip",
+          "size": 134891,
+          "sha256": "7bbb2160b98f4f8534c1f55fdd644d2910c162a42273cee704656c521cfa427a"
+        },
+        "net": {
+          "name": "iMorph-1.5.325(net)[China 12.1.5.70575].zip",
+          "size": 158912,
+          "sha256": "65b6afc0ba64d2a5f94cc01c8932e50b1c30b36ab6d7960ea5834ae2c7e2e2e8"
+        },
+        "menu": {
+          "name": "iMorph-1.5.325(menu)[China 12.1.5.70575].zip",
+          "size": 396709,
+          "sha256": "1d881c2478bdeb39b53fe80b1bbfa1acd8bac3b31d881ac29b8c14542a51e1ff"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Classic Outdated (15h)",
+      "version": "WoW 5.5.4.70579 · iMorph v1.5.325 · Latest: 5.5.4.70631",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.325[China 5.5.4.70579].zip",
+          "size": 134292,
+          "sha256": "d4f44d86c714b185e889ba8549155927f146c7cae407c6d9cf70d85f60e89d51"
+        },
+        "net": {
+          "name": "iMorph-1.5.325(net)[China 5.5.4.70579].zip",
+          "size": 158997,
+          "sha256": "6f953193474faf88b3679f0d130d8014000a93d0bcbab438c99f4afae8df04be"
+        },
+        "menu": {
+          "name": "iMorph-1.5.325(menu)[China 5.5.4.70579].zip",
+          "size": 395062,
+          "sha256": "5441c36cbe0bd3b55b2cfbb6d978e0f7709345535ea470d76de81aa9876c199c"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Classic Era",
+      "version": "WoW 1.15.9.70576 · iMorph v1.5.325",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.325[China 1.15.9.70576].zip",
+          "size": 133169,
+          "sha256": "d1431f76b4c1c2541e9a969347a8c36943ca6d74ac9470250a1757034dcfd058"
+        },
+        "net": {
+          "name": "iMorph-1.5.325(net)[China 1.15.9.70576].zip",
+          "size": 157709,
+          "sha256": "766d95c097268fb0ae333db1d60beff42042e6eea9f07d5ce7c7c0d49714054a"
+        },
+        "menu": {
+          "name": "iMorph-1.5.325(menu)[China 1.15.9.70576].zip",
+          "size": 374278,
+          "sha256": "d443ec42d1677a1b8225df33c85d49732175f1395725e1b841d08285012aee69"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Anniversary",
+      "version": "WoW 2.5.6.70577 · iMorph v1.5.327",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.327[China 2.5.6.70577].zip",
+          "size": 134097,
+          "sha256": "aa3032a4ffa8e230f3af9fe891b7c1aa1c1e8968464e6f5aedebce5ee86a2e7f"
+        },
+        "net": {
+          "name": "iMorph-1.5.327(net)[China 2.5.6.70577].zip",
+          "size": 158723,
+          "sha256": "74f4decd6a24534155e6d9366d57081bc173b6eea4f526b06bfc5a952efc818e"
+        },
+        "menu": {
+          "name": "iMorph-1.5.327(menu)[China 2.5.6.70577].zip",
+          "size": 394774,
+          "sha256": "e54fe52b4042e64dc5a5c60242fce0c082a7242ce15413ffc2e620f19abe4b02"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Classic Titan",
+      "version": "WoW 3.80.2.70522 · iMorph v1.5.323",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.323[China 3.80.2.70522].zip",
+          "size": 133801,
+          "sha256": "ebca5b90c3c0c6931846b1417114e0a855156316a693c88795cf430e2001084c"
+        },
+        "net": {
+          "name": "iMorph-1.5.323(net)[China 3.80.2.70522].zip",
+          "size": 158382,
+          "sha256": "5f42a59defbf9ff65af6d4771ac1115d46a39f086deeea5aaf77f99b96ef87cf"
+        },
+        "menu": {
+          "name": "iMorph-1.5.323(menu)[China 3.80.2.70522].zip",
+          "size": 394461,
+          "sha256": "e3b8c9b4cf1b767bd58c42a6cb55968bac4b4441e99d34bd9838d41fcff20a37"
+        }
+      }
+    },
+    {
+      "tab": "china",
+      "title": "Forever",
+      "version": "WoW 1.60.1.70634 · iMorph v1.5.327",
+      "files": {
+        "base": {
+          "name": "iMorph-1.5.327[China 1.60.1.70634].zip",
+          "size": 134825,
+          "sha256": "468dc75f34961a185165bc3814d90bb35cce97def5e68e27cdc3bf843330f22f"
+        },
+        "net": {
+          "name": "iMorph-1.5.327(net)[China 1.60.1.70634].zip",
+          "size": 158897,
+          "sha256": "f541ac6648c7d04b5f821f6ca5bc167e181553ed1ed60cca972f62fd30cdaebb"
+        },
+        "menu": {
+          "name": "iMorph-1.5.327(menu)[China 1.60.1.70634].zip",
+          "size": 396534,
+          "sha256": "48a06c0e9551f2423649e71a6f5efc2ca8378b142ac5f4d5dc1d7f778eafee3b"
+        }
+      }
+    }
+  ]
+}
