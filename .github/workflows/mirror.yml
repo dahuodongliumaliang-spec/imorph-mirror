@@ -1,0 +1,51 @@
+name: mirror imorph
+
+# 把 imorph.dev 上的 iMorph 包自动搬到本仓库的 Release（GitHub 的服务器在境外，
+# 拉 Mega 不受墙影响），国内用 gh-proxy 加速站下载这些 Release 附件即可，不需要任何代理软件。
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # 每 6 小时一次
+  workflow_dispatch:            # 也可以手动点一下
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 装依赖
+        run: pip install --quiet mega-public-client pycryptodome
+
+      - name: 从 Mega 拉包 + 生成 manifest
+        run: |
+          python mirror/mirror_mega.py build --out mirror \
+            --release-base "https://github.com/${{ github.repository }}/releases/download/latest"
+
+      - name: 发布到 Release（latest）
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: iMorph mirror
+          body: |
+            自动镜像自 https://www.imorph.dev/download
+            国内加速下载：在链接前加 https://gh-proxy.com/ 或 https://ghfast.top/
+          files: |
+            mirror/*.zip
+            mirror/manifest.json
+          make_latest: true
+          overwrite_files: true
+
+      - name: 把 manifest 提交回仓库（便于 raw 访问）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mirror/manifest.json
+          git diff --cached --quiet || git commit -m "manifest: $(date -u +%FT%TZ)"
+          git push
