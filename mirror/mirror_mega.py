@@ -14,12 +14,22 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import imorph_get as core          # noqa: E402
+
+
+def safe_name(tab: str, title: str, kind: str, version: str) -> str:
+    """GitHub Release 会把 [ ] ( ) 空格 换成点，名字对不上 manifest 就没法下载。
+    所以本地就改成纯 ASCII 名字，manifest 和附件用同一个。"""
+    iv = re.search(r"iMorph v([\d.]+)", version)
+    wow = re.search(r"WoW ([\d.]+)", version)
+    slug = re.sub(r"[^A-Za-z0-9]+", "-", title).strip("-").lower()
+    return f"iMorph-{iv.group(1) if iv else 'x'}-{tab}-{slug}-{kind}-{wow.group(1) if wow else 'x'}.zip"
 
 
 def build(out: Path, tab: str, only: list[str] | None) -> dict:
@@ -40,8 +50,12 @@ def build(out: Path, tab: str, only: list[str] | None) -> dict:
         # mega_download 的返回顺序与 links 一致，按 base/net/menu 对回去
         for (kind, _url), p in zip(e.links.items(), got):
             data = p.read_bytes()
+            target = out / safe_name(e.tab, e.title, kind, e.version)
+            if p.name != target.name:
+                target.write_bytes(data)
+                p.unlink(missing_ok=True)
             files[kind] = {
-                "name": p.name,
+                "name": target.name,
                 "size": len(data),
                 "sha256": hashlib.sha256(data).hexdigest(),
             }
