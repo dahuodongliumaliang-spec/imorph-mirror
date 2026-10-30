@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T11:59:57+00:00",
+  "generated": "2026-10-30T17:54:52+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
@@ -137,21 +137,21 @@
     },
     {
       "tab": "china",
-      "title": "Classic Outdated (1d 14h)",
+      "title": "Classic Outdated (1d 20h)",
       "version": "WoW 5.5.4.70579 · iMorph v1.5.325 · Latest: 5.5.4.70631",
       "files": {
         "base": {
-          "name": "iMorph-1.5.325-china-classic-outdated-1d-14h-base-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-1d-20h-base-5.5.4.70579.zip",
           "size": 134292,
           "sha256": "d4f44d86c714b185e889ba8549155927f146c7cae407c6d9cf70d85f60e89d51"
         },
         "net": {
-          "name": "iMorph-1.5.325-china-classic-outdated-1d-14h-net-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-1d-20h-net-5.5.4.70579.zip",
           "size": 158997,
           "sha256": "6f953193474faf88b3679f0d130d8014000a93d0bcbab438c99f4afae8df04be"
         },
         "menu": {
-          "name": "iMorph-1.5.325-china-classic-outdated-1d-14h-menu-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-1d-20h-menu-5.5.4.70579.zip",
           "size": 395062,
           "sha256": "5441c36cbe0bd3b55b2cfbb6d978e0f7709345535ea470d76de81aa9876c199c"
         }
