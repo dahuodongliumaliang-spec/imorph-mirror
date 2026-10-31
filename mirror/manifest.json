@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-30T21:53:25+00:00",
+  "generated": "2026-10-31T03:44:13+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
     {
       "tab": "global",
-      "title": "Retail",
-      "version": "WoW 12.1.5.70575 · iMorph v1.5.323",
+      "title": "Retail Outdated (2h)",
+      "version": "WoW 12.1.5.70575 · iMorph v1.5.323 · Latest: 12.1.5.70688",
       "files": {
         "base": {
-          "name": "iMorph-1.5.323-global-retail-base-12.1.5.70575.zip",
+          "name": "iMorph-1.5.323-global-retail-outdated-2h-base-12.1.5.70575.zip",
           "size": 134871,
           "sha256": "06cab00e0d75d5a64ac052b768691a5458c4cee54a56e728696b959783b7be2b"
         },
         "net": {
-          "name": "iMorph-1.5.323-global-retail-net-12.1.5.70575.zip",
+          "name": "iMorph-1.5.323-global-retail-outdated-2h-net-12.1.5.70575.zip",
           "size": 158926,
           "sha256": "fd2a0aeb8d8fea4dad17ec960d8730abdbdab0dbba53f199d60b39da36357fdf"
         },
         "menu": {
-          "name": "iMorph-1.5.323-global-retail-menu-12.1.5.70575.zip",
+          "name": "iMorph-1.5.323-global-retail-outdated-2h-menu-12.1.5.70575.zip",
           "size": 396701,
           "sha256": "c731229260e803abea8118d9cf271e462814229445f21e013ac2dec418920e25"
         }
@@ -115,21 +115,21 @@
     },
     {
       "tab": "china",
-      "title": "Retail",
-      "version": "WoW 12.1.5.70575 · iMorph v1.5.325",
+      "title": "Retail Outdated (2h)",
+      "version": "WoW 12.1.5.70575 · iMorph v1.5.325 · Latest: 12.1.5.70688",
       "files": {
         "base": {
-          "name": "iMorph-1.5.325-china-retail-base-12.1.5.70575.zip",
+          "name": "iMorph-1.5.325-china-retail-outdated-2h-base-12.1.5.70575.zip",
           "size": 134891,
           "sha256": "7bbb2160b98f4f8534c1f55fdd644d2910c162a42273cee704656c521cfa427a"
         },
         "net": {
-          "name": "iMorph-1.5.325-china-retail-net-12.1.5.70575.zip",
+          "name": "iMorph-1.5.325-china-retail-outdated-2h-net-12.1.5.70575.zip",
           "size": 158912,
           "sha256": "65b6afc0ba64d2a5f94cc01c8932e50b1c30b36ab6d7960ea5834ae2c7e2e2e8"
         },
         "menu": {
-          "name": "iMorph-1.5.325-china-retail-menu-12.1.5.70575.zip",
+          "name": "iMorph-1.5.325-china-retail-outdated-2h-menu-12.1.5.70575.zip",
           "size": 396709,
           "sha256": "1d881c2478bdeb39b53fe80b1bbfa1acd8bac3b31d881ac29b8c14542a51e1ff"
         }
@@ -137,21 +137,21 @@
     },
     {
       "tab": "china",
-      "title": "Classic Outdated (2d 0h)",
+      "title": "Classic Outdated (2d 6h)",
       "version": "WoW 5.5.4.70579 · iMorph v1.5.325 · Latest: 5.5.4.70631",
       "files": {
         "base": {
-          "name": "iMorph-1.5.325-china-classic-outdated-2d-0h-base-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-2d-6h-base-5.5.4.70579.zip",
           "size": 134292,
           "sha256": "d4f44d86c714b185e889ba8549155927f146c7cae407c6d9cf70d85f60e89d51"
         },
         "net": {
-          "name": "iMorph-1.5.325-china-classic-outdated-2d-0h-net-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-2d-6h-net-5.5.4.70579.zip",
           "size": 158997,
           "sha256": "6f953193474faf88b3679f0d130d8014000a93d0bcbab438c99f4afae8df04be"
         },
         "menu": {
-          "name": "iMorph-1.5.325-china-classic-outdated-2d-0h-menu-5.5.4.70579.zip",
+          "name": "iMorph-1.5.325-china-classic-outdated-2d-6h-menu-5.5.4.70579.zip",
           "size": 395062,
           "sha256": "5441c36cbe0bd3b55b2cfbb6d978e0f7709345535ea470d76de81aa9876c199c"
         }
