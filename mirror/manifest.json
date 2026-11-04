@@ -1,27 +1,27 @@
 {
-  "generated": "2026-11-03T22:48:21+00:00",
+  "generated": "2026-11-04T04:29:36+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
     {
       "tab": "global",
       "title": "Retail",
-      "version": "WoW 12.1.5.70688 · iMorph v1.5.324",
+      "version": "WoW 12.1.5.70783 · iMorph v1.5.326",
       "files": {
         "base": {
-          "name": "iMorph-1.5.324-global-retail-base-12.1.5.70688.zip",
-          "size": 134878,
-          "sha256": "4da44a837edc0de18d54719c74d37635c0694dfa432de40233a03829c20b360d"
+          "name": "iMorph-1.5.326-global-retail-base-12.1.5.70783.zip",
+          "size": 134868,
+          "sha256": "75248089ed15b7bb27e62bf982178cc44090f90e9469727e42f5fdc4b4db6701"
         },
         "net": {
-          "name": "iMorph-1.5.324-global-retail-net-12.1.5.70688.zip",
-          "size": 158928,
-          "sha256": "46ca6abe2b6bfdb00bf22771b4ce999603a907b2e249f9886f7ef6c43cb21fba"
+          "name": "iMorph-1.5.326-global-retail-net-12.1.5.70783.zip",
+          "size": 158921,
+          "sha256": "a6ceec90e639a7f432890acaa3af6ca5e59f84548a73e4a12a821d25ff68e9be"
         },
         "menu": {
-          "name": "iMorph-1.5.324-global-retail-menu-12.1.5.70688.zip",
-          "size": 396706,
-          "sha256": "6cf8d0cd9e70ee3f996b88d43b7d0c2bfb2d959acc1aa707bd62c90fbd9c8167"
+          "name": "iMorph-1.5.326-global-retail-menu-12.1.5.70783.zip",
+          "size": 396707,
+          "sha256": "3ddab541fe55b1b0029219dc0c6563a555f937f53134ee6e416bebf2a43c1713"
         }
       }
     },
@@ -116,22 +116,22 @@
     {
       "tab": "china",
       "title": "Retail",
-      "version": "WoW 12.1.5.70688 · iMorph v1.5.328",
+      "version": "WoW 12.1.5.70783 · iMorph v1.5.332",
       "files": {
         "base": {
-          "name": "iMorph-1.5.328-china-retail-base-12.1.5.70688.zip",
-          "size": 134892,
-          "sha256": "c84a851aad3793add8587326d5302d475583c42e24fd687d067a9c03c2e3c646"
+          "name": "iMorph-1.5.332-china-retail-base-12.1.5.70783.zip",
+          "size": 134878,
+          "sha256": "e59eed5efc75a7eef8aafeddfc2ef1b007fab91099f9a84c794d4a6529092d71"
         },
         "net": {
-          "name": "iMorph-1.5.328-china-retail-net-12.1.5.70688.zip",
-          "size": 158917,
-          "sha256": "3a6283c10c31e003cbeaa2be8649e4376331df6d55914eb5c78e6ddad7971d97"
+          "name": "iMorph-1.5.332-china-retail-net-12.1.5.70783.zip",
+          "size": 158907,
+          "sha256": "551cb02a1e5af60e50ac92d8dc66b659c3e6613fbfcf9e7ff63b7a5004623291"
         },
         "menu": {
-          "name": "iMorph-1.5.328-china-retail-menu-12.1.5.70688.zip",
-          "size": 396704,
-          "sha256": "f14450a942aa9f32b14a844c62278ca664c0ef4be301c62cc2b18685147a0b7e"
+          "name": "iMorph-1.5.332-china-retail-menu-12.1.5.70783.zip",
+          "size": 396696,
+          "sha256": "663da5153b0cf73d2bba03bb87830f8542c3022d580ad888eca55178c7c6e005"
         }
       }
     },
