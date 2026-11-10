@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T14:10:14+00:00",
+  "generated": "2026-11-10T22:45:42+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
@@ -94,22 +94,22 @@
     {
       "tab": "global",
       "title": "Forever",
-      "version": "WoW 1.60.1.70862 · iMorph v1.5.331",
+      "version": "WoW 1.60.1.70888 · iMorph v1.5.332",
       "files": {
         "base": {
-          "name": "iMorph-1.5.331-global-forever-base-1.60.1.70862.zip",
-          "size": 135721,
-          "sha256": "2bfede341c3852a67f390edc36a23a61e8bb87991ad9ecbf5bec8748b8ace74b"
+          "name": "iMorph-1.5.332-global-forever-base-1.60.1.70888.zip",
+          "size": 135727,
+          "sha256": "36d8967929597cfd236766cb4a5beedbaa36c56ea3ba6c88324a9a2e8e164c85"
         },
         "net": {
-          "name": "iMorph-1.5.331-global-forever-net-1.60.1.70862.zip",
-          "size": 159677,
-          "sha256": "e5893f433987e9960701e38a93c990c66e5b635e0c4259036e7571b584a79c6d"
+          "name": "iMorph-1.5.332-global-forever-net-1.60.1.70888.zip",
+          "size": 159678,
+          "sha256": "a6abb4c33f5f142a802255ff75430671287833b8fa8edbbc2d14dadd8d5ba885"
         },
         "menu": {
-          "name": "iMorph-1.5.331-global-forever-menu-1.60.1.70862.zip",
-          "size": 397519,
-          "sha256": "7d0f390c2e7a9b0443361ab3388378ced48e0847f26a8a48c10419f736162c45"
+          "name": "iMorph-1.5.332-global-forever-menu-1.60.1.70888.zip",
+          "size": 397521,
+          "sha256": "975d6fd134dfeab828cf22549fc53a9364f5403f8454e349c8c67de46bd3dc99"
         }
       }
     },
