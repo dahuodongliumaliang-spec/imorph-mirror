@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T01:28:00+00:00",
+  "generated": "2026-11-17T15:23:56+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
@@ -27,21 +27,21 @@
     },
     {
       "tab": "global",
-      "title": "Classic",
-      "version": "WoW 5.5.4.70631 · iMorph v1.5.324",
+      "title": "Classic Outdated (1m)",
+      "version": "WoW 5.5.4.70631 · iMorph v1.5.324 · Latest: 5.5.4.70960",
       "files": {
         "base": {
-          "name": "iMorph-1.5.324-global-classic-base-5.5.4.70631.zip",
+          "name": "iMorph-1.5.324-global-classic-outdated-1m-base-5.5.4.70631.zip",
           "size": 134576,
           "sha256": "26a15d04b89e62950cab245e20f2ef2a04ddd08b6ed7f1503a8ecf4ebd9abd3f"
         },
         "net": {
-          "name": "iMorph-1.5.324-global-classic-net-5.5.4.70631.zip",
+          "name": "iMorph-1.5.324-global-classic-outdated-1m-net-5.5.4.70631.zip",
           "size": 159189,
           "sha256": "b94d26b12890466cffa3560fd8870070f2d15e5d16529f05f0657787a6e0636f"
         },
         "menu": {
-          "name": "iMorph-1.5.324-global-classic-menu-5.5.4.70631.zip",
+          "name": "iMorph-1.5.324-global-classic-outdated-1m-menu-5.5.4.70631.zip",
           "size": 395246,
           "sha256": "f2dd933f4f759e7395ce529cbbaaa6295a32797af3f09fe26dcaa706210f2cfc"
         }
@@ -93,21 +93,21 @@
     },
     {
       "tab": "global",
-      "title": "Forever",
-      "version": "WoW 1.60.1.70938 · iMorph v1.5.335",
+      "title": "Forever Outdated (1m)",
+      "version": "WoW 1.60.1.70938 · iMorph v1.5.335 · Latest: 1.60.1.70959",
       "files": {
         "base": {
-          "name": "iMorph-1.5.335-global-forever-base-1.60.1.70938.zip",
+          "name": "iMorph-1.5.335-global-forever-outdated-1m-base-1.60.1.70938.zip",
           "size": 164406,
           "sha256": "d5e5f712dfec8e0d1e161db9c6b962f4995f0bbb02c13d94349f44738315d6c0"
         },
         "net": {
-          "name": "iMorph-1.5.335-global-forever-net-1.60.1.70938.zip",
+          "name": "iMorph-1.5.335-global-forever-outdated-1m-net-1.60.1.70938.zip",
           "size": 189393,
           "sha256": "36ddfd4461be838b1c64569b04d40bc6ee5011fbdf5c8a1fd5f81539fa5bd522"
         },
         "menu": {
-          "name": "iMorph-1.5.335-global-forever-menu-1.60.1.70938.zip",
+          "name": "iMorph-1.5.335-global-forever-outdated-1m-menu-1.60.1.70938.zip",
           "size": 429226,
           "sha256": "e96fd55b087b0c78eb2ef3a1aa2975532f64e393e19caaf99988184b1cee7e2f"
         }
