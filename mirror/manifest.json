@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T01:28:31+00:00",
+  "generated": "2026-11-26T16:14:35+00:00",
   "source": "https://www.imorph.dev/download",
   "release_base": "https://github.com/dahuodongliumaliang-spec/imorph-mirror/releases/download/latest",
   "versions": [
@@ -225,23 +225,23 @@
     },
     {
       "tab": "china",
-      "title": "Forever Outdated (3h)",
-      "version": "WoW 1.60.1.71037 · iMorph v1.5.338 · Latest: 1.60.1.71139",
+      "title": "Forever",
+      "version": "WoW 1.60.1.71139 · iMorph v1.5.339",
       "files": {
         "base": {
-          "name": "iMorph-1.5.338-china-forever-outdated-3h-base-1.60.1.71037.zip",
-          "size": 165017,
-          "sha256": "daee79ee797ee7282d9d398a5c4b1e23301c9fd529a6a778c50c5e9438965cd1"
+          "name": "iMorph-1.5.339-china-forever-base-1.60.1.71139.zip",
+          "size": 165026,
+          "sha256": "e15ecd8f01d52823f837b506bbe3a6b52ff1fcf74ea920f6e40dc12e4d31342c"
         },
         "net": {
-          "name": "iMorph-1.5.338-china-forever-outdated-3h-net-1.60.1.71037.zip",
-          "size": 189832,
-          "sha256": "b18c8baafda31bd6539d5e3d0986fe32589d8dbf8ca1ac1d1cb53b428c6440fa"
+          "name": "iMorph-1.5.339-china-forever-net-1.60.1.71139.zip",
+          "size": 189827,
+          "sha256": "2f6edc5904143801c4622859719fd11657d04b948d60aa1eaff9da4f9558ba3c"
         },
         "menu": {
-          "name": "iMorph-1.5.338-china-forever-outdated-3h-menu-1.60.1.71037.zip",
-          "size": 429382,
-          "sha256": "dc600276d5e07bc057785315c3135ce3af50af1b342b29f79b8f11bf4df4fea5"
+          "name": "iMorph-1.5.339-china-forever-menu-1.60.1.71139.zip",
+          "size": 429379,
+          "sha256": "94c8cc3135039da6941590f5fd015f22645536316481ccb9b6cd07515a1d0ca2"
         }
       }
     }
